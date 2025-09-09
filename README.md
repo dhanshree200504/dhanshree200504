@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 Currently pursuing **BTech in Electronics & Communication (ECS)**  
+- 🎓 Currently pursuing **BTech in Electronics & Computer Science (ECS)**  
 - 🌱 Exploring **Software Development, Data Science/AI, and Cybersecurity**  
 - 💡 I enjoy building projects that solve real-world problems  
 - ⚡ Fun fact: I believe consistency beats motivation every single time  
