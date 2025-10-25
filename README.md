@@ -23,8 +23,7 @@
 
 ## 📂 Featured Projects  
 - 🔗 [**Sustainability Tracker (C Project)**](#) – Integrated SDG modules (Health, Water, Energy, Waste, Air Quality, Carbon Footprint) with weekly logs  
-- 🔗 [**Data Science Projects**](#) – Machine learning mini-projects for predictions and analysis  
-- 🔗 [**Cybersecurity Experiments**](#) – Hands-on scripts and tools for ethical hacking practice  
+  
 
 ---
 
